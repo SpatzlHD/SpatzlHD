@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started - DUNE Board Game API#1](https://dev.to/spatzlhd/getting-started-dune-board-game-api1-32hn)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
