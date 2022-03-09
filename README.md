@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **discord.js**
 
-- 📫 How to reach me **alexander@uranos.xyz**
+- 📫 How to reach me **contact@alexanderkoegel.com**
 
 - ⚡ Fun fact **i started learning JavaScript to Code a Discord Bot**
 
