@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">I am a Full Stack Developer from Germany</h3>
 
-- 🔭 I’m currently working on [a api in JavaScript](https://discord.gg/F5rh74tJNj)
+- 🔭 I’m currently working on [valorant.js](https://www.npmjs.com/package/@liamcottle/valorant.js)
 
 - 📝 I regularly write articles on [https://dev.to/spatzlhd](https://dev.to/spatzlhd)
 
