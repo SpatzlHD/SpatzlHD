@@ -31,3 +31,5 @@
 <p><a href="https://www.buymeacoffee.com/alex1406"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alex1406" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spatzlhd&show_icons=true&theme=tokyonight&locale=de" alt="spatzlhd" /></p>
+
+[![@spatzlhd's Holopin board](https://holopin.io/api/user/board?user=spatzlhd)](https://holopin.io/@spatzlhd)
