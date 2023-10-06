@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">I am a Full Stack Developer from Germany</h3>
 
-- 🔭 I’m currently working on [valorant.js](https://www.npmjs.com/package/@liamcottle/valorant.js)
-
-- 📝 I regularly write articles on [https://dev.to/spatzlhd](https://dev.to/spatzlhd)
-
-- 💬 Ask me about **discord.js**
-
-- 📫 How to reach me **contact@alexanderkoegel.com**
+- 🔭 I’m currently working on [findissues](https://github.com/anand346/findissues)
 
 - ⚡ Fun fact **i started learning JavaScript to Code a Discord Bot**
 
