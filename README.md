@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spatzlhd&show_icons=true&theme=tokyonight&locale=de" alt="spatzlhd" /></p>
 
-[![@spatzlhd's Holopin board](https://holopin.io/api/user/board?user=spatzlhd)](https://holopin.io/@spatzlhd)
+[![An image of @spatzlhd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spatzlhd)](https://holopin.io/@spatzlhd)
