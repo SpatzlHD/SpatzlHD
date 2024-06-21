@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/toed_i" target="blank"><img src="https://img.shields.io/twitter/follow/toed_i?logo=twitter&style=for-the-badge" alt="toed_i" /></a> </p>
 
-- 🔭 I’m currently working on [CS-Link](https://cs-link.xyz)
+- 🔭 I’m currently working on [F1-dash](https://f1-dash.com)
 
 - 🌱 I’m currently learning **adonisjs, nextjs, typescript**
 
